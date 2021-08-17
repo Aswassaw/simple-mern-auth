@@ -1,4 +1,4 @@
-# Simple Mern Auth
+# Simple MERN Auth
 ## Aplikasi apa ini?
 Latihan stack MERN dengan studi kasus autentikasi Login dan Register. Materi dari tutorial: https://youtube.com/playlist?list=PL_mAvlfqBUVKEfjKp5GjNIg0q-bkXNkgs
 
