@@ -1,0 +1,4 @@
+MONGO_URL=mongodb+srv://aswassaw:aswassaw@cluster0.8ixwj.mongodb.net/mern-auth?retryWrites=true&w=majority
+PORT=4000
+JWT_SECRET=akhskagwucikwqckwbbjkadjgaidadhwihphdqdohhc
+CLIENT_URL=http://localhost:3000
